@@ -5,7 +5,6 @@ Feel free to copy this deep web link list directory to your website to make othe
 Disclaimer: TorLinks.cc does not promote or endorse claims that have been made by any parties of any article published in this site. The informations provided are for the general purpose only and unintended to promote or support purchasing and/or selling of any products and services or serve as a recommendation in the involvement of doing so. Neither TorLinks.cc nor any member is responsible directly or indirectly for any loss or damage caused or alleged to be caused by or in relation with the reliance on or usage of any content, goods or services mentioned in this site.
 ::: {#links}
 [Torlinks on Darkweb](http://pf72rzncvycnfv7xmzag67vfn5qsvmjqc6yyrftofzjyvufk6mmgw2id.onion/)
- 
 is a .onion version of TorLinks (you need Tor Browser to visit the links below).
 
 
@@ -31,7 +30,6 @@ Anonymous Bitcoin Wallet and Bitcoin Laundry [v3]
 [Apple? Yeak!](http://g5y4xtizlwcdob3ldwuqe4aid5wimdrl6inz55vdnybqpny6lc7q32ad.onion/)
 AppleYeak Team Shop Selling carded Apple Products [v3]
 
-
 ### Digital Goods [Commercial Links]
 
 ------------------------------------------------------------------------
@@ -39,16 +37,14 @@ AppleYeak Team Shop Selling carded Apple Products [v3]
 [Money Hunters](http://rq532gaarpa532qavgxbgtt5edzetsnpxjcz6lw3njobpdjohcq7lgqd.onion)
 Physical and Digital pre-loaded Credit Cards [v3]
 
- 
 [PayPal Cent](http://vreoyexdhtexn4q7wysjt5aafhavmtjfhfo4wjnhr76m4g3hsmsxfdqd.onion)
 Hacked Paypal accounts [v3]
 
-
 [Financial Oasis](http://njc5v7ldvxgb2yr4reovoaha7jumiwxpf37doxxl3ioryqh6eaqi23ad.onion)
 Chipped prepaid CC, Recycled Notes, Money Transfer, PP accounts [v3] 
- Paypal Bazar](http://e4er6nomzyzt6kmto32y5hsrr7kuvh3bfqkrhv7buls6ozfsodauboyd.onion)
-Hacked Paypal accounts [v3]
 
+[Paypal Bazar](http://e4er6nomzyzt6kmto32y5hsrr7kuvh3bfqkrhv7buls6ozfsodauboyd.onion)
+Hacked Paypal accounts [v3]
 
 [NetAuth](http://keee5q4uutzq62b6am6sf6wiatlszmvgxmw6bmznozovopszy3ec5nad.onion)
 Buy Paypal accounts and Credit Cards [v3]
