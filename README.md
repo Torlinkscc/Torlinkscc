@@ -3,7 +3,7 @@
 Feel free to copy this deep web link list directory to your website to make others aware of the darknet.
 
 Disclaimer: TorLinks.cc does not promote or endorse claims that have been made by any parties of any article published in this site. The informations provided are for the general purpose only and unintended to promote or support purchasing and/or selling of any products and services or serve as a recommendation in the involvement of doing so. Neither TorLinks.cc nor any member is responsible directly or indirectly for any loss or damage caused or alleged to be caused by or in relation with the reliance on or usage of any content, goods or services mentioned in this site.
-::: {#links}
+
 [Torlinks on Darkweb](http://pf72rzncvycnfv7xmzag67vfn5qsvmjqc6yyrftofzjyvufk6mmgw2id.onion/)
 is a .onion version of TorLinks (you need Tor Browser to visit the links below).
 
