@@ -25,7 +25,7 @@ Yeak!](http://g5y4xtizlwcdob3ldwuqe4aid5wimdrl6inz55vdnybqpny6lc7q32ad.onion/)
 \| AppleYeak Team Shop Selling carded Apple Products [v3]
 
 
-### Digital Goods[Commercial Links]
+### Digital Goods [Commercial Links]
 ------------------------------------------------------------------------
 
 [Money
@@ -51,7 +51,7 @@ Dumps](http://6re3xmkly64bz3tioaohwy45kd4ci7xlswu74ek4jehj3oqvaksxj3id.onion)
 \| Highest Quality CC Dumps+pin T1+T2 [v3]
 
 
-### Services[Non-Commercial Links]
+### Services [Non-Commercial Links]
 ------------------------------------------------------------------------
 
 #### Tor links and search engines.
@@ -158,7 +158,7 @@ Bible](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/doc
 \| All you need to learn before buying anything on the Dark Web.
 [v3]
 
-### Forums[Non-Commercial Links
+### Forums [Non-Commercial Links
 
 ------------------------------------------------------------------------
 
@@ -185,7 +185,7 @@ discussion board [v2]
 [im Deep Web](http://germanyruvvy2tcw.onion/) \| Deutschland im Deep Web
 Forum [v2]
 
-### Media / Social[Non-Commercial Links]
+### Media / Social [Non-Commercial Links]
 
 ------------------------------------------------------------------------
 
@@ -219,7 +219,7 @@ tunnels at Virginia Tech [v3]
 [Λ](#top "Back to top")
 :::
 
-### Political[Non-Commercial Links]
+### Political [Non-Commercial Links]
 ------------------------------------------------------------------------
 
 [BuggedPlanet.Info](https://buggedplanet.info) \| Information on
