@@ -6,7 +6,7 @@ Disclaimer: TorLinks.cc does not promote or endorse claims that have been made b
 [Torlinks on Darkweb](http://pf72rzncvycnfv7xmzag67vfn5qsvmjqc6yyrftofzjyvufk6mmgw2id.onion/)\| 
 is a .onion version of TorLinks (you need Tor Browser to visit the links below)
 
-### Financial Services[Commercial Links]{.linktype} {#financial}
+### Financial Services [Commercial Links]
 
 ------------------------------------------------------------------------
 
@@ -17,8 +17,7 @@ Wallet](http://vv6i6goustvtjc3klngt4ncypny5vdm4ygkrukwgvabm2tt36tplccid.onion)
 \| Anonymous Bitcoin Wallet and Bitcoin Laundry [v3]
 
 
-### Physical Goods[Commercial Links]{.linktype} {#physical}
-
+### Physical Goods [Commercial Links]
 ------------------------------------------------------------------------
 
 [Apple?
@@ -26,8 +25,7 @@ Yeak!](http://g5y4xtizlwcdob3ldwuqe4aid5wimdrl6inz55vdnybqpny6lc7q32ad.onion/)
 \| AppleYeak Team Shop Selling carded Apple Products [v3]
 
 
-### Digital Goods[Commercial Links]{.linktype} {#digital}
-
+### Digital Goods[Commercial Links]
 ------------------------------------------------------------------------
 
 [Money
@@ -53,8 +51,7 @@ Dumps](http://6re3xmkly64bz3tioaohwy45kd4ci7xlswu74ek4jehj3oqvaksxj3id.onion)
 \| Highest Quality CC Dumps+pin T1+T2 [v3]
 
 
-### Services[Non-Commercial Links]{.linktype} {#ncservices}
-
+### Services[Non-Commercial Links]
 ------------------------------------------------------------------------
 
 #### Tor links and search engines.
@@ -161,7 +158,7 @@ Bible](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/doc
 \| All you need to learn before buying anything on the Dark Web.
 [v3]
 
-### Forums[Non-Commercial Links]{.linktype} {#forums}
+### Forums[Non-Commercial Links
 
 ------------------------------------------------------------------------
 
@@ -188,7 +185,7 @@ discussion board [v2]
 [im Deep Web](http://germanyruvvy2tcw.onion/) \| Deutschland im Deep Web
 Forum [v2]
 
-### Media / Social[Non-Commercial Links]{.linktype} {#media}
+### Media / Social[Non-Commercial Links]
 
 ------------------------------------------------------------------------
 
@@ -222,8 +219,7 @@ tunnels at Virginia Tech [v3]
 [Λ](#top "Back to top")
 :::
 
-### Political[Non-Commercial Links]{.linktype} {#political}
-
+### Political[Non-Commercial Links]
 ------------------------------------------------------------------------
 
 [BuggedPlanet.Info](https://buggedplanet.info) \| Information on
